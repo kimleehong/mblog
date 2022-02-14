@@ -32,6 +32,10 @@ body {
 }
 
 /* 커스텀 top*/
+.con{
+  max-width:1920px;
+}
+
 .co {
   left: 1085px;
   top: 210px;
